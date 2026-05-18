@@ -1,0 +1,13 @@
+{
+  "name": "Magnetic Shield",
+  "modifiers": {
+    "magneto:magnetic_shield": {
+      "cooldown": 18,
+      "duration": 5,
+      "damageReduction": 0.6,
+      "soundEvents": {
+        "USE": ["fiskheroes:shield"]
+      }
+    }
+  }
+}
