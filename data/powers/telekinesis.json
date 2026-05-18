@@ -1,0 +1,13 @@
+{
+  "name": "Telekinesis",
+  "modifiers": {
+    "magneto:telekinesis": {
+      "cooldown": 10,
+      "range": 15,
+      "liftPower": 1.8,
+      "soundEvents": {
+        "USE": ["fiskheroes:telekinesis"]
+      }
+    }
+  }
+}
