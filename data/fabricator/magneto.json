@@ -1,0 +1,10 @@
+{
+  "suit": "magneto:magneto",
+  "requirements": [
+    "fiskheroes:tier8",
+    "fiskheroes:controlled_flight",
+    "magneto:telekinesis",
+    "magneto:magnetic_pulse",
+    "magneto:magnetic_shield"
+  ]
+}
