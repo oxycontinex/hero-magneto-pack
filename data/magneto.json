@@ -1,0 +1,28 @@
+{
+  "name": "Magneto",
+  "displayName": "Магнето",
+  "tier": 5,
+  "desc": "Мутант, мастер магнетизма. Может управлять металлом и создавать защитные поля.",
+  "abilities": [
+    {
+      "name": "Magnetic Manipulation",
+      "desc": "Управляет металлическими объектами вокруг себя.",
+      "cooldown": 6,
+      "effects": [ "magnet_pull", "magnet_push" ]
+    },
+    {
+      "name": "Magnetic Shield",
+      "desc": "Создаёт вокруг себя магнитное защитное поле.",
+      "cooldown": 10,
+      "effects": [ "damage_resistance", "magnet_protect" ]
+    },
+    {
+      "name": "Levitation",
+      "desc": "Позволяет летать, используя магнитное поле Земли.",
+      "cooldown": 0,
+      "effects": [ "fly" ]
+    }
+  ],
+  "textures": "textures/magneto.png",
+  "model": "models/magneto.json"
+}
