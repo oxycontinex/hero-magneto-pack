@@ -1,0 +1,14 @@
+{
+  "name": "Magnetic Pulse",
+  "modifiers": {
+    "magneto:magnetic_pulse": {
+      "cooldown": 12,
+      "damage": 8,
+      "knockback": 2.5,
+      "radius": 5,
+      "soundEvents": {
+        "USE": ["fiskheroes:zap"]
+      }
+    }
+  }
+}
